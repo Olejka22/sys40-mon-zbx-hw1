@@ -32,7 +32,7 @@
    4. Выполните все необходимые команды для установки Zabbix Server и Zabbix Web Server.
 
 #### Интерфейс zabbix
-![Скриншот-1](https://github.com/netology-code/sys40-mon-zbx-hw1/blob/main/img/1-1.png)
+![Скриншот-1](https://github.com/Olejka22/sys40-mon-zbx-hw1/blob/main/img/1-1.png)
 
 #### Команды
 ```
@@ -67,6 +67,14 @@ systemctl enable zabbix-server apache2
    4. Добавьте Zabbix Agentов в раздел Configuration > Hosts вашего Zabbix Servera.
    5. Проверьте, что в разделе Latest Data начали появляться данные с добавленных агентов.
 
+Cкриншоты:
+![Скриншот-1](https://github.com/Olejka22/sys40-mon-zbx-hw1/blob/main/img/2-1.png)
+
+![Скриншот-2](https://github.com/Olejka22/sys40-mon-zbx-hw1/blob/main/img/2-2.png)
+
+![Скриншот-3](https://github.com/Olejka22/sys40-mon-zbx-hw1/blob/main/img/2-3.png)
+
+![Скриншот-4](https://github.com/Olejka22/sys40-mon-zbx-hw1/blob/main/img/2-4.png)
 
 ```
 sudo -s
@@ -85,7 +93,10 @@ systemctl enable zabbix-agent
 1. Приложите в файл README.md скриншот раздела Latest Data, где видно свободное место на диске C:
 
 Cкриншоты:
-![Скриншот-1](https://github.com/netology-code/sys40-mon-zbx-hw1/blob/main/img/3-1.png)
-![Скриншот-1](https://github.com/netology-code/sys40-mon-zbx-hw1/blob/main/img/3-2.png)
-![Скриншот-1](https://github.com/netology-code/sys40-mon-zbx-hw1/blob/main/img/3-3.png)
-![Скриншот-1](https://github.com/netology-code/sys40-mon-zbx-hw1/blob/main/img/3-4.png)
+![Скриншот-1](https://github.com/Olejka22/sys40-mon-zbx-hw1/blob/main/img/3-1.png)
+
+![Скриншот-2](https://github.com/Olejka22/sys40-mon-zbx-hw1/blob/main/img/3-2.png)
+
+![Скриншот-3](https://github.com/Olejka22/sys40-mon-zbx-hw1/blob/main/img/3-3.png)
+
+![Скриншот-4](https://github.com/Olejka22/sys40-mon-zbx-hw1/blob/main/img/3-4.png)
